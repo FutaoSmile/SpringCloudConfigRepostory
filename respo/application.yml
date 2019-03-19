@@ -1,0 +1,4 @@
+name: futao
+spring:
+  application:
+    name: config-server
