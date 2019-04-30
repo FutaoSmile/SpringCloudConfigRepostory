@@ -2,3 +2,4 @@ name: futao
 spring:
   application:
     name: config-server
+port: 7777
